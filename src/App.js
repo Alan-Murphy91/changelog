@@ -14,7 +14,7 @@ function App() {
           Hello World
         </p>
         <p>
-          Hello World
+          Hello Worlds
         </p>
         <a
           className="App-link"
